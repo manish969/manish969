@@ -1,7 +1,7 @@
 
 </h2>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F73C07&lines=Welcome+to+Programming+world;I+am+Krishna+Yadav+.+%F0%9F%91%8B+;I+am+a+programmer+.;Computer%20Engineer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F73C07&lines=Welcome+to+Programming+world;I+am+Manish+Kumar+.+%F0%9F%91%8B+;I+am+a+programmer+.;Computer%20Engineer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
   <h1 align="center">Hi 👋, I am Manish Kumar 😎</h1>
   <h3 align="center">Full Stack Developer | Java | Coding enthusiast | Learner</h3>
@@ -10,10 +10,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Krishna12345825&label=Profile%20views&color=0e75b6&style=flat" alt="Krishna12345825" /> </p>
 <p align="center">
   <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/krishna-yadav9771/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/krishna-yadav9771/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:krishnabhai117@gmail.com?subject=Hi%Krishna"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="https://krishnakumaryadav.netlify.app/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
+<a href="https://www.instagram.com/ahir_manish_x/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/manish-kumar-2617ab225/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:manishcutm2001@gmail.com?subject=Hi%Manish"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://app.netlify.com/teams/gurumanishrandhawa/sites"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
  
 </p>
  
@@ -92,8 +92,8 @@
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div><img src="https://github.com/Krishna12345825/Krishna12345825/blob/master/wave.svg" />
 
-[website]: https://krishnakumaryadav.netlify.app/
-[instagram]: https://krishnakumaryadav.netlify.app/
-[linkedin]: https://www.linkedin.com/in/krishna-yadav9771/
+[website]: https://app.netlify.com/teams/gurumanishrandhawa/sites
+[instagram]: https://www.instagram.com/ahir_manish_x/
+[linkedin]: https://www.linkedin.com/in/manish-kumar-2617ab225/
  -->
 
