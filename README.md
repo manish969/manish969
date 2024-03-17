@@ -7,7 +7,7 @@
   <h3 align="center">Full Stack Developer | Java | Coding enthusiast | Learner</h3>
 <img align="right" alt="coding"width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Krishna12345825&label=Profile%20views&color=0e75b6&style=flat" alt="Krishna12345825" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Manish12345825&label=Profile%20views&color=0e75b6&style=flat" alt="Manish12345825" /> </p>
 <p align="center">
   <h3 align="left">Connect with me:</h3>
 <a href="https://www.instagram.com/ahir_manish_x/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
@@ -17,7 +17,7 @@
  
 </p>
  
-## LeetCode Profile:  [live Link](https://leetcode.com/krishna_987/)
+## LeetCode Profile:  [live Link](https://leetcode.com/manishcutm2001/)
 ## Coding Ninjas Profile:  [live Link](https://www.codingninjas.com/studio/profile/Krishna123)
 - 🧕Pronouns **He/him**                
    Glad to see you here!
@@ -55,23 +55,23 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Krishna12345825&show_icons=true&locale=en&layout=compact" alt="Krishna12345825" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manish12345825&show_icons=true&locale=en&layout=compact" alt="Manish12345825" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Krishna12345825&show_icons=true&locale=en" alt="Krishna12345825" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Manish12345825&show_icons=true&locale=en" alt="Manish12345825" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna12345825&" alt="Krishna12345825" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manish12345825&" alt="Manish12345825" /></p>
 
 
 <br><br>
 ## 📈 Statistics
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Krishna12345825&theme=darkhub">
+<img src="https://github-profile-trophy.vercel.app/?username=Manish12345825&theme=darkhub">
 <br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna12345825&theme=merko">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manish12345825&theme=merko">
 </p>
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Krishna12345825&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Manish12345825&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
     
    </tr>
 </table>
